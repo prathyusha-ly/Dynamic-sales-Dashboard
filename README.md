@@ -18,4 +18,6 @@ Tools
 # Project file
 Main excel dashboard fileL: 
 
+<a href= "https://github.com/prathyusha-ly/Dynamic-sales-Dashboard/blob/main/Dynamic%20Sales%20Dashboard.xlsx" >Data</a>
+
 
