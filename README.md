@@ -16,7 +16,7 @@ Tools
 *Data Cleaning (Excel functions)* | Ensures accurate analysis |
 
 # Project file
-Main excel dashboard fileL: 
+Main excel dashboard file: 
 
 <a href= "https://github.com/prathyusha-ly/Dynamic-sales-Dashboard/blob/main/Dynamic%20Sales%20Dashboard.xlsx" >Data</a>
 
