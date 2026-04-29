@@ -3,7 +3,7 @@
  
 # Key insights
 - The *Running Shoes* category achieved the highest sales (1792 units).  
-- Profit peaks* during mid-year months (May–August).  
+- *Profit peaks* during mid-year months (May–August).  
 - *Low-priority orders* make up the majority (about 60% of total).  
 - *Fashion* dominates across top product segments.
   
@@ -19,5 +19,9 @@ Tools
 Main excel dashboard fileL: 
 
 <a href= "https://github.com/prathyusha-ly/Dynamic-sales-Dashboard/blob/main/Dynamic%20Sales%20Dashboard.xlsx" >Data</a>
+
+Dashboard: 
+
+<img width="833" height="334" alt="Dynamic Dashboard " src="https://github.com/user-attachments/assets/8bc31912-3d2d-40d9-a95b-6eab23429627" />
 
 
